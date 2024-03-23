@@ -6,4 +6,5 @@
 - Yellow
 - Pink
 - Black
-- 
+- White
+- Brown
