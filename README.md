@@ -4,3 +4,6 @@
 - Blue
 - Green
 - Yellow
+- White
+- Brown
+  
